@@ -1,0 +1,4 @@
+interface:
+  display_name: "笨拙潦草重绘 v2"
+  short_description: "将文字、参考图与视频提示词转换为 1–5 级 MS Paint 潦草手绘风格"
+  default_prompt: "使用 $clumsy-ms-paint-redraw-v2 将我的文字、参考图、角色、场景、剧本或分镜转换为笨拙潦草的 MS Paint 鼠标涂鸦风格。"
